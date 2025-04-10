@@ -58,4 +58,4 @@ All charts update dynamically when filters are applied.
 ---
 
 📌 *Created by Olga Buriakova*  
-💼 [LinkedIn](www.linkedin.com/in/olga-buriakova-a13163128) | 🌐 [Portfolio](https://obu541.github.io/Portfolio/)
+💼 [LinkedIn](https://www.linkedin.com/in/olga-buriakova-a13163128/) | 🌐 [Portfolio](https://obu541.github.io/Portfolio/)
