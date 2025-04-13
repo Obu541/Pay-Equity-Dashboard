@@ -28,7 +28,7 @@ The dashboard includes the following visualizations:
 ## 🔎 How to Use the Dashboard
 
 👉 **Click to view the Tableau Dashboard:**  
-🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/oga.buriakova/viz/CO2Emissions_17400307514980/Dashboard1?publish=yes)  
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/oga.buriakova/viz/PayEquityCompensationDashboard/Dashboard1)  
 *(Recommended to open in a new tab)*
 
 ### 🧭 Filters Included:
