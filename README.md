@@ -2,7 +2,7 @@
 
 This interactive HR dashboard was built in Tableau to explore compensation trends and assess potential pay equity gaps across gender, job level, and department using a mock dataset of 100 employees.
 
-<img src="images/Tableu-Logo.png" alt="Tableau" width="700"/>
+<img src="images/Tableau-Logo.png" alt="Tableau" width="700"/>
 
 ---
 
